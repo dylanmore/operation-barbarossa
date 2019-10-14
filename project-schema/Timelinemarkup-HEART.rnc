@@ -1,0 +1,20 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = timeline
+timeline = element timeline {bibl,desc,body}
+bibl = element bibl {title+,date,ref}
+title = element title {level?,text}
+level = attribute level {"a"}
+date = element date {text}
+ref = element ref {target,text}
+target = attribute target {"URL"}
+desc = element desc {p+}
+p = element p {text}
+body = element body {mixed{(date | army)+}}
+army = element army {group,leader,text}
+group = attribute group {"north" | "centre" | "south"}
+leader = attribute leader {"Wilhem Ritter von Leeb" | "Feodor Von Bock" | "Gerd von Runstedt"}
+
+
+
+
+
