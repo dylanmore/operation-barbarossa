@@ -1,0 +1,118 @@
+<?xml-model href="sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+      <bibl>
+            <author>Jurgen Shperdhea</author>
+            <title level="a">Kiev: The Largest Encirclement In The History Of Warfare</title>
+            <title>War History Online</title>
+            <date when="2019-04-02">April 2 2019</date>
+            <ref target="URL"
+                  >https://www.warhistoryonline.com/instant-articles/the-largest-encirclement-warfare.html</ref>
+      </bibl>
+      <desc>
+            <p>More than <casualties n="600000">600,000 people</casualties> were lost during this
+                  battle, including those who had gone missing or been taken prisoner as well as
+                  those who were killed.</p>
+      </desc>
+
+      <body>
+            <p>The First Battle of <city name="Kiev">Kiev</city> began on <date when="1941-08-07"
+                        >August 7, 1941</date>. It was one of the greatest stages of Operation
+                  Barbarossa with attacks, resistance, and counterattacks all failing. This was the
+                  situation on the Soviet’s Southwestern Front.</p>
+
+            <p>It all happened too fast and escalated even faster. The German Army moved quickly
+                  towards <city name="Kiev">Kiev</city> and tried to capture the city. It would be
+                  remembered as the greatest encirclement in the history of warfare.</p>
+
+            <p>German armored tank divisions could move with speed. The troops were well-trained and
+                  had the necessary equipment. They advanced hundreds of miles into Soviet territory
+                  to further the ambitions of their leader.</p>
+
+            <p><leader name="Adolf Hitler">Hitler</leader> wanted to deprive the Soviets of their
+                  resources and factories, so he put in place Directive 33 on <date
+                        when="1941-07-19">July 19, 1941</date>. The world was holding its breath to
+                  see who would be the victor in this vicious battle between two superpowers.</p>
+
+            <p>The German generals were against <leader name="Adolf Hitler">Hitler's</leader>
+                  directives. They were of the opinion that <city name="Moscow">Moscow</city> had to
+                  be captured first. But <leader name="Adolf Hitler">Hitler</leader> had other ideas
+                  in mind.</p>
+
+            <p>After the order had been given, two smaller groups were detached from <army
+                        group="center">Army Group Center</army> — the <army group="Panzer" n="2">2nd
+                        Panzer Group</army> and the <army group="infantry" n="2">2nd Army</army>.
+                  They were sent south, on a mission to start the encirclement of The Southwestern
+                  Front. They would meet with the <army group="Panzer" n="1">1st Panzer</army> of
+                        <army group="south">Army South Group</army> which was headed towards the
+                  southwestern side.</p>
+
+            <p>The Southwestern Front, which was held by the Red Army, was trying to counterattack
+                  and break through the circle, but the Germans were everywhere.</p>
+
+            <p>By <date when="1941-09-12">September 12, 1941</date>, the <army group="Panzer" n="1"
+                        >1st Panzer Group</army> had progressed far enough north that they were
+                  crossing the Dnieper river. On <date when="1941-09-16">September 16</date>, they
+                  made contact with the <army group="Panzer" n="2">2nd Panzer Group</army> and
+                  continued south, arriving at the town of <city name="Lokhvista">Lokhvista</city>,
+                  120 miles east of <city name="Kiev">Kiev</city>.</p>
+
+            <p>The Soviet <leader name="Semyon Budyonny">General Budyonny</leader>, who was in
+                  charge of The Southwestern Front, started to realize that they would soon be stuck
+                  and surrounded.</p>
+
+            <p>The Red Army was at the mercy of the Germans. <leader name="Semyon Budyonny"
+                        >Budyonny</leader> and his men were left with no options. The Germans had
+                  managed to capture them successfully through a massive encirclement movement. With
+                  the German Army’s infantry joining together in this way, the fate of the Soviets
+                  was sealed at <city name="Kiev">Kiev</city>, even though they fought hard.</p>
+
+            <p>Kiev had effectively fallen by <date when="1941-09-19">September 19</date>, but the
+                  encircled troops continued to put up a fight. The Red Army’s <army n="5"
+                        >5th</army>, <army n="26">26th</army>, <army n="21">21st</army>, <army
+                        n="38">38th</army>, and <army n="37">37th</army> Army were captured inside
+                  the circle. They fought for about ten more days, but everything was falling
+                  apart.</p>
+
+            <p>The Southwestern Front was about to disintegrate, and a lot of lives would be lost
+                  among the civilians too. More than <casualties n="600000">600,000
+                        people</casualties> were lost during this battle, including those who had
+                  gone missing or been taken prisoner as well as those who were killed.</p>
+
+            <p>Some troops tried to withdraw. Soviet Generals like <leader name="Mikhail Kirponos"
+                        >Mikhail Kirponos</leader> and others were murdered. Only a fraction of
+                        <survivors n="15000">15,000 troop</survivors>s managed to escape the
+                  encirclement.</p>
+
+            <p>
+                  <leader name="Heinz Guderian">General Guderian’s</leader> decision to turn south
+                  was one of the moves that enabled the encirclement to succeed. The Soviets, on the
+                  other hand, had been scattered and that weakened them. Their defensive and
+                  counter-offensive tactics resulted in a terrible defeat.</p>
+
+            <p> Germany’s initial invasion started out with more than <manpower who="Germany"
+                        n="500000">500,000 men</manpower> while the Soviets had more than <manpower
+                        who="Soviet Union" n="700000">700,000</manpower>. During the battle, the
+                  Germans lost only <casualties n="45000">45,000 men</casualties> while the number
+                  of Soviet causalities was staggering. More than <casualties n="600000">600,000 men
+                        were either killed, captured or missing</casualties>. In addition, more than
+                        <casualties n="84000">84,000 were sick or wounded.</casualties></p>
+
+            <p> The Red Army’s loss of resources after this battle made it hard for them to recover.
+                  More than <casualties n="400">400 tanks had been destroyed</casualties> as well as
+                        <casualties n="343">343 aircraft</casualties> and nearly <casualties
+                        n="30000">30,000 guns and mortars.</casualties></p>
+
+            <p>It’s possible that this battle subtly impacted on the course of the war. If <leader
+                        name="Adolf Hitler">Hitler</leader> had not rejected the advice of all his
+                  generals and had proceeded to take <city name="Moscow">Moscow</city> instead,
+                  maybe history would have been different. The Germans might have won this battle,
+                  but their delay in taking <city name="Moscow">Moscow</city> was fatal.</p>
+
+            <p>This opinion is borne out by one of the German commanders who commented after World
+                  War 2 was over that going for <city name="Kiev">Kiev</city> first was a huge
+                  mistake. Choosing <city name="Kiev">Kiev</city> meant that <operation name="Typhoon">Operation Typhoon</operation> was delayed until <date
+                        when="1941-10-01">October</date>. He said that if they had gone for <city
+                        name="Moscow">Moscow</city> first, they would have been able to capture the
+                  city before the cold Russian winter set in.</p>
+      </body>
+</xml>

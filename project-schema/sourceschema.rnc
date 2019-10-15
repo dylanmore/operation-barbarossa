@@ -1,0 +1,30 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = xml
+xml = element xml {bibl,desc,body}
+bibl = element bibl {author, title+,date,ref}
+author = element author {text}
+title = element title {level?,text}
+level = attribute level {"a"}
+date = element date {(when | (when,to)),text}
+when = attribute when {xsd:date}
+to = attribute to {xsd:date}
+ref = element ref {target,text}
+target = attribute target {"URL"}
+desc = element desc {p+}
+p = element p {mixed {(casualties| city| date| leader| army| survivors| manpower| operation)*},text}
+casualties = element casualties {n,text}
+n = attribute n {xsd:integer}
+city = element city {name,text}
+name = attribute name {"Kiev" | "Moscow" | "Adolf Hitler" | "Lokhvista" | "Semyon Budyonny" | "Mikhail Kirponos" | "Heinz Guderian" | "Typhoon"}
+leader = element leader {name,text}
+army = element army {mixed{((group) | (group,n) | (n))},text}
+group = attribute group {"Panzer" | "infantry" | "center" | "south"}
+survivors = element survivors {n,text}
+manpower = element manpower {who,n,text}
+who = attribute who {"Soviet Union" | "Germany"}
+operation = element operation {name,text}
+body = element body {p+}
+# Kiev xml done and schema created by DM #
+
+
+
