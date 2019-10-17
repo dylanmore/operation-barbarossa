@@ -1,0 +1,191 @@
+
+<?xml-model href="GitHub/operation-barbarossa/project-schema/sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <bibl>
+        <author>C N Truema</author>
+        <title level="a">The Battle for Moscow</title>
+        <title>History Learning Site</title>
+        <date when="2019-04-02">September 21 2019</date>
+        <ref target="URL"
+            >https://www.historylearningsite.co.uk/world-war-two/world-war-two-and-eastern-europe/the-battle-for-moscow/</ref>
+    </bibl>
+    <desc>
+        <p>The Battle for <city name="Moscow">Moscow</city> – the Germans code-named it <operation
+                name="Typhoon">‘Operation Typhoon</operation>’ – started on <date when="1941-10-02"
+                >October 2nd 1941</date>. The capture of <city name="Moscow">Moscow</city>, Russia’s
+            capital, was seen as vital to the success of <operation name="Barbarossa">‘Operation
+                Barbarossa‘</operation>. Hitlerbelieved that once the heart – <city name="Moscow"
+                >Moscow</city> – had been cut out of Russia, the whole nation would collapse.</p>
+    </desc>
+
+    <body>
+        <p>The initial stages of <operation name="Barbarossa">Barbarossa</operation> have been seen
+            as massively successful for the Germans and catastrophic for the Russians. Few would
+            deny the success of the German attack – <casualties n="28" unit="divisions">28 Russian
+                divisions</casualties> were put out of action in just three weeks and more than 70
+            divisions lost <casualties n="50" unit="percent">50% or more of their men and
+                equipment</casualties>.Blitzkrieg had ploughed through the Red Army. <leader
+                name="Adolf Hitler">Hitler’s</leader> belief that the Red Army would crumble seemed
+            to be coming true. However, the Germans had also suffered in their attacks on Russia. By
+            one month into <operation name="Barbarossa">Barbarossa</operation>, the Germans had lost
+            over <casualties n="100000">100,000 men</casualties>, <casualties n="50" unit="percent"
+                >50% of their tanks</casualties> and over <casualties n="1200">1,200
+                planes</casualties>. With its army split between east and west Europe, these were
+            heavy casualty figures. <leader name="Adolf Hitler">Hitler’s</leader> belief that the
+            Red Army would be crushed also meant that there had been little consideration of the
+            Russian winter and very many of the Wehrmacht in Russia had not been equipped with
+            proper winter clothing. The battle that raged around <city name="Smolensk"
+                >Smolensk</city> had critically held up the advance of the Germans.</p>
+
+        <p>Ironically for an army that was to suffer from the Russian winter, <operation
+                name="Typhoon">‘Operation Typhoon’</operation> started off in ideal weather
+            conditions on <date when="1941-10-02">October 2nd, 1941</date>. <leader
+                name="Fedor von Bock">Field Marshall von Bock</leader> had been given overall
+            command of the attack on <city name="Moscow">Moscow</city>. <leader name="Adolf Hitler"
+                >Hitler</leader> had ordered that units in other parts of the Russian campaign be
+            moved to <city name="Moscow">Moscow</city> – <leader name="Erich Hoepner">General
+                Hoepner’s</leader>
+            <army group="Panzer" n="4">IV Panzer group</army> had been moved from <city
+                name="Leningrad">Leningrad</city> – hence why the Germans did not have sufficient
+            men to launch an attack on the city and why it had to be besieged. For the attack,
+                <leader name="Fedor von Bock">Bock</leader> had at his disposal <manpower
+                who="Germany" n="1000000">1 million men</manpower>, <manpower who="Germany" n="1700"
+                >1,700 tanks</manpower>, <manpower who="Germany" n="19500">19,500 artillery
+                guns</manpower> and <manpower who="Germany" n="950">950 combat aircraft</manpower> –
+                <manpower who="Germany" n="50" unit="percent">50% of all the German men in
+                Russia</manpower>, <manpower who="Germany" n="75" unit="percent">75% of all the
+                tanks</manpower> and <manpower who="Germany" n="33" unit="percent">33% of all the
+                planes</manpower>. To defend <city name="Moscow">Moscow</city>, the Russians had
+                <manpower who="Soviet Union" n="500000">under 500,000 men</manpower>, <manpower
+                who="Soviet Union" n="900">less than 900 tanks</manpower> and <manpower
+                who="Soviet Union" n="300">just over 300 combat planes</manpower>.</p>
+
+        <p><leader name="Adolf Hitler">Hitler</leader> had made it clear to his generals what he
+            wanted from them. <leader name="Franz Halder">Chief-of-Staff Halder</leader> wrote in
+            his diary:</p>
+
+        <p><quote from="Franz Halder">“It is the <leader name="Adolf Hitler">Führer’s</leader>
+                unshakable decision to raze <city name="Moscow">Moscow</city> and <city
+                    name="Leningrad">Leningrad</city> to the ground, so as to be completely relieved
+                of the population of these cities, which we would otherwise have to feed through the
+                winter. The task of destroying the cities is to be carried out by aircraft.”</quote>
+            On <date when="1941-10-12">October 12th</date>, ten days into the attack by <leader
+                name="Fedor von Bock">Bock’s</leader>
+            <army group="center">Army Group Centre</army>, he received a further order from German
+            Supreme Command:</p>
+
+        <p><quote from="German Supreme Command">“The <leader name="Adolf Hitler">Führer</leader> has
+                reaffirmed his decision that the surrender of <city name="Moscow">Moscow</city> will
+                not be accepted, even if it is offered by the enemy.”</quote> The order went on to
+            instruct Bock that gaps could be left open for people in <city name="Moscow"
+                >Moscow</city> to escape into the interior of Russia where administrating them would
+            cause chaos.</p>
+
+        <p>The attack started well for the Germans. The Russians found it difficult to communicate
+            with all parts of their defences and infantry divisions frequently had to face tanks
+            without air or artillery support. By <date when="1941-10-07">October 7th</date>, even
+                <leader name="Georgy Zhukov">Marshall Zhukov</leader> was forced to admit that all
+            the major roads to <city name="Moscow">Moscow</city> were open to the Germans. Large
+            parts of the Red Army had been encircled at <city name="Vyazma">Vyazma</city> (the <army
+                n="19">19th</army>, <army n="24">24th</army>, <army n="29">29th</army>, <army n="30"
+                >30th</army>, <army n="32">32nd</army> and <army n="43">43rd armies</army>) and at
+            two places near <city name="Bryansk">Bryansk</city> (the <army n="3">3rd</army>, <army
+                n="13">13th</army> and <army n="50">50th armies</army>) such was the ferocity of the
+            German attack and the state of the Russian army then.</p>
+
+        <p>Ironically, it was these armies that had been trapped near <city name="Vyazma"
+                >Vyazma</city> and <city name="Bryansk">Bryansk</city> that caused the Germans their
+            first major problem in the attack on <city name="Moscow">Moscow</city>. The Germans
+            could not simply leave nine Russian armies in their rear as they advanced east. They had
+            to take on these trapped armies. By doing so, they slowed down their advance to <city
+                name="Moscow">Moscow</city> to such an extent that the Red Army was given sufficient
+            breathing space to reorganise itself and its defences under the command of <leader
+                name="Georgy Zhukov">Marshall Georgy Zhukov</leader> – the man who ‘never lost a
+            battle’. The choice of <leader name="Georgy Zhukov">Zhukov</leader> was an enlightened
+            one:</p>
+
+        <p><quote from="Konstantin Rokossovsky">“In my view, <leader name="Georgy Zhukov"
+                    >Zhukov</leader> remains always a man of strong will and decisiveness, clear and
+                gifted, exacting, persistent and purposeful. These qualities are all, undoubtedly,
+                indispensable to a great military leader, and <leader name="Georgy Zhukov"
+                    >Zhukov</leader> has them.”</quote>Marshall of the Soviet Union <leader
+                name="Konstantin Rokossovsky">Rokossovsky</leader>
+            <leader name="Georgy Zhukov">Zhukov</leader> organised his defence along the so-called
+            ‘Mozhaysk Line’. The Germans attacked this line on <date when="1941-10-10">October
+                10th</date> – by which time they had dealt with the Russians at <city name="Vyazma"
+                >Vyazma</city>. Though on paper the delay to the Germans had been mere days, to the
+            Russians it allowed them time to move their forces to where <leader name="Georgy Zhukov"
+                >Zhukov</leader> believed they would be needed. Even so, the Germans broke through
+            the Mozhaysk Line at a number of places and for all of <leader name="Georgy Zhukov"
+                >Zhukov's</leader> work, <city name="Moscow">Moscow</city> was still very much
+            threatened. Parts of the German army got to 45 miles of <city name="Moscow"
+                >Moscow’s</city> centre before the tide was turned and a stalemate developed with
+            little movement on either side.</p>
+
+        <p>On <date when="1941-11-13">November 13th</date>, senior German commanders met at <city
+                name="Orsha">Orsha</city>. It was at this meeting that the decision was taken to
+            start a second assault on <city name="Moscow">Moscow</city>. During the stalemate, the
+            Russians had sent <manpower who="Soviet Union" n="100000">100,000 more men</manpower> to
+            defend <city name="Moscow">Moscow</city> with an <manpower who="Soviet Union" n="300"
+                >extra 300 tanks</manpower> and <manpower who="Soviet Union" n="2000">2,000
+                artillery guns</manpower>.</p>
+
+        <p><city name="Moscow">Moscow</city> itself had been turned into a fortress with 422 miles
+            of anti-tank ditches being dug, 812 miles of barbed wire entanglements and some 30,000
+            firing points. Resistance groups had also been organised to fight both in the city,
+            should the Germans enter <city name="Moscow">Moscow</city> and in the area around the
+            city. In all, about 10,000 people from <city name="Moscow">Moscow</city> were involved
+            in planned resistance activities. <leader name="P A Artemyev">Lieutenant-General P A
+                Artemyev</leader> was given the task of defending the city. Between 100 and 120
+            trains provided the city with what was required on a daily basis at a time when the
+            Germans could only average 23 trains a day when they required 70 – such was the
+            effectiveness of partisan activity.</p>
+
+        <p>The second assault narrowed its target area so that as much fire power could be
+            concentrated in one area as possible. The belief that was held was that if one small
+            part of the city was entered, all the defences surrounding it would fall once the might
+            of the Panzer units fanned out. However, the attack met with fierce Russian resistance.
+            The Germans got as far forward as 18 miles from <city name="Moscow">Moscow's</city>
+            centre (the village of Krasnaya Polyana) but the Russian defence line held out. It is
+            said that German reconnaissance units actually got into the outskirts of the city but by
+                <date when="1941-11-30">the end of November</date> the whole forward momentum of the
+            Germans had stalled. <date when="1941-12-01">By December</date>, the Russians had
+            started to counter-attack the Germans. In just 20 days of the second offensive, the
+            Germans lost <casualties n="155000">155,000 men (killed, wounded or a victim of
+                frostbite)</casualties>, about <casualties n="800">800 tanks</casualties> and
+                <casualties n="300">300 artillery guns</casualties>. Whereas the Germans had few men
+            in reserve, the Russians had 58 infantry and cavalry divisions in reserve. STAVKA
+            proposed to use a number of these divivions to start a counter-offensive against the
+            Germans – <leader name="Josef Stalin">Stalin</leader> himself made it clear to <leader
+                name="Georgy Zhukov">Zhukov</leader> that he expected a counter-attack to start on
+                <date when="1941-12-05">December 5th</date> in the battle zone to the north of <city
+                name="Moscow">Moscow</city> and on <date when="1941-12-06">December 6th</date> in
+            the battle zone to the south of the city. The attacks took place at the times decreed by
+                <leader name="Josef Stalin">Stalin</leader> and they proved highly effective against
+            an enemy that was being hit hard by sub-zero winter temperatures – night temperatures of
+            -20F were not uncommon.</p>
+
+        <p>The impact of these attacks so unnerved <leader name="Adolf Hitler">Hitler</leader> that
+            he issued the following order:</p>
+
+        <p>
+            <quote from="Adolf Hitler">“The troops must be compelled by the personal influences of
+                their commanders, commanding officers, and officers, to resist fanatically on their
+                present positions, without regard to enemy breakthroughs on the flanks and in the
+                rear. Only by leading their troops in this way can the necessary time be gained for
+                movement of reinforcements from the homeland and the West which I have ordered to be
+                carried out.”</quote>
+            <leader name="Adolf Hitler">Hitler</leader> However, his call was in vain. The Wehrmacht
+            was pushed back between 60 and 155 miles in places and by <date when="1942-01-01"
+                >January 1942</date>, the threat to Moscow had passed. <leader name="Adolf Hitler"
+                >Hitler's</leader> response to this was to move <manpower who="Germany" n="800000"
+                >800,000 men from the west of Europe to the Eastern Front</manpower> – thus ending
+            forever any chance, however very small it may have been, of <operation name="Sealion"
+                >‘Operation Sealion‘</operation> being carried out. He also dismissed 35 senior
+            officers as well – including the <leader name="Walther von Brauchitsch"
+                >Commander-in-Chief of the Army, Brauchitsch</leader>, and the three army commanders
+            in the field – <leader name="Fedor von Bock">Bock</leader>, <leader
+                name="Wilhelm Ritter von Leeb">Leeb</leader> and <leader name="Gerd von Rundstedt"
+                >Rundstedt</leader>.</p>
+    </body>
+</xml>
