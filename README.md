@@ -119,8 +119,6 @@ Victor: Soviet Union
 
 # Battle of Smolensk
 
-Website: https://www.scmglobe.com/battle-smolensk-1941-invasion-russia/
-
 Dates: July 10 – September 10, 1941
 
 Commanders: 
