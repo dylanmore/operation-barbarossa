@@ -1,0 +1,190 @@
+<?xml-model href="file:/E:/Chrome%20Downloads/sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <bibl>
+        <author>Christopher Chant</author>
+        <title level="a">Uman-Botosani Offensive Operation</title>
+        <title>Codenames</title>
+        <date when="2019-06-06">May 24 2018</date>
+        <ref target="URL">https://codenames.info/operation/uman-botosani-offensive-operation/</ref>
+    </bibl>
+    <desc>
+        <p>This was the Soviet part of the <operation name="Dniepr-Carpathian Offensive"
+                >'Dniepr-Carpathian Offensive Operation'</operation> in the western part of Ukraine
+            carried out by <leader name="Ivan S. Konev">Marshal Sovetskogo Soyuza Ivan S.
+                Konev's</leader>
+            <army group="Ukrainian Front" n="2">2nd Ukrainian Front</army> against <leader
+                name="Erich von Manstein">Generalfeldmarschall Erich von Manstein's</leader>
+            <army group="Sud">Heeresgruppe 'Sud'</army> to split the German army group in two and
+            open the way for a Soviet advance to the Dniestr and Prut rivers in eastern Romania
+                (<date when="1944-03-05" to="1944-04-05">5 March/17 April 1944</date>).</p>
+        <p>The operation's immediate purpose was to crush the <army group="Uman">German Gruppe
+                'Uman'</army>, split <army group="Sud">Heeresgruppe 'Sud'</army> and retake the
+            south-western part of Ukraine.</p>
+    </desc>
+    <body>
+        <p>After the completion of the <operation name="Korsun-Shevchenkovsky Offensive"
+                >'Korsun-Shevchenkovsky Offensive Operation'</operation>, the primary forces of the
+            newly promoted <leader name="Ivan S. Konev">Konev's</leader>
+            <manpower who="Soviet Union" n="681000">681,000-strong</manpower>
+            <army group="Ukrainian Front" n="2">2nd Ukrainian Front</army> were opposed by the
+                <manpower who="Germany" n="400000">400,000 men</manpower> of <leader
+                name="Otto Wohler">General Otto Wohler's</leader>
+            <army group="infantry" n="8">8th Army</army> within <army group="Sud">Heeresgruppe
+                'Sud'</army>. At the start of the operation, therefore, the Soviets had a 1.7/1
+            superiority in manpower, almost 1.5/1 superiority in armour (<manpower
+                who="Soviet Union" n="670">670</manpower> to <manpower who="Germany" n="450">450
+                armoured fighting vehicles</manpower>), and just greater than 2.5/1 superiority in
+            artillery (<manpower who="Soviet Union" n="8890">8,890</manpower> to <manpower
+                who="Germany" n="3500">3,500 pieces</manpower>), and parity in aircraft.</p>
+        <p>The Stavka's concept for the operation was the destruction of the <army group="infantry"
+                n="8">8th Army</army>, the sundering of <army group="Sud">Heeresgruppe 'Sud'</army>,
+            and the severing of the route by which <leader name="Hans-Valentin
+            Hube"
+                >Generaloberst Hans-Valentin Hube's</leader>
+            <army group="Panzer" n="1">1st Panzerarmee</army> could pull back to the south. The main
+            offensive was to be delivered from the staging areas at <city name="Vinograd"
+                >Vinograd</city>, <city name="Zvenigorodok">Zvenigorodok</city>, and <city
+                name="Shpola">Shpola</city> in the direction of <city name="Uman">Uman</city> 1.</p>
+        <p>During their preparation for the operation, the <army group="Ukrainian Front" n="2">2nd
+                Ukrainian Front</army> and its subordinate army staffs paid great attention to the
+            maximisation of their strength and the optimisation of their tactical and logistical
+            organisation to ensure that the least possible effect would be made on the course of the
+            operation by the rasputitsa, poor weather conditions, and need for many assault river
+            crossings.</p>
+        <p>The operation began on <date when="1944-03-05">5 March</date> on a 110-mile (175-km)
+            sector of the front between <city name="Dnepropetrovsk">Dnepropetrovsk</city> and <city
+                name="Belaya Tserkov">Belaya Tserkov</city>. A very substantial artillery
+            bombardment opened the offensive, which then developed successfully. In order to
+            increase the impact of the initial assault and develop the offensive along the primary
+            axis, the <army group="Tank" n="2">2nd Tank Army</army> and <army group="Tank" n="5">5th
+                Guards Tank Army</army> were introduced into the offensive on the first day. The
+            offensive swept across the Gorny Tikach river on <date when="1944-03-08">8 March</date>,
+            overran the Germans' last defensive line to the north-east of the Yuzhny Bug river, and
+            continued its pursuit of the retreating German forces with the <army group="Tank" n="6"
+                >6th Guards Tank Army</army> in the van ahead of the <army group="Tank" n="2">2nd
+                Tank Army</army> and <army group="Tank" n="5">5th Guard Tank Army</army>. The Soviet
+            forces took <city name="Uman">Uman</city> on <date when="1944-03-10">10 March</date>
+            after scattering the five divisions of <leader name="Ernst-Eberhard Hell">General
+                Ernst-Eberhard Hell's</leader>
+            <army group="infantry" n="7">VII Corps</army>, and the advanced detachments of their
+            armies then reached the Yuzhny Bug river, which they crossed on a 60-mile (100-km)
+            front, again without any pause, by means of seized crossings, and also pontoon bridges,
+            boats and other improvisations.</p>
+        <p>So ensure that the pace of the advance was continued unabated, the <army group="Tank"
+                n="6">6th Guards Tank Army</army> took over the lead after the crossing of the
+            Yuzhny Bug river. The tank armies thus continued their progress toward the Dniestr
+            river, and on <date when="1944-03-17">17 March</date> advance units of the front's right
+            wing established bridgeheads on the Dniestr's right bank to the south of the <city
+                name="Mogilev-Podolsky">Mogilev-Podolsky</city> area.</p>
+        <p>By this time, therefore, Soviet units had entered Moldova, and the <army
+                group="Ukrainian Front" n="1">1st</army> and <army group="Ukrainian Front" n="2">2nd
+                Ukrainian Front</army> had succeeded in their object of splitting <army group="Sud"
+                >Heeresgruppe 'Sud'</army> in two. Now divided from the <army group="Panzer" n="1"
+                >1st Panzerarmee</army>, the <army group="infantry" n="8">8th Army</army> was
+            reassigned to <leader name="Ewald von Kleist">Generalfeldmarschall Ewald von
+                Kleist's</leader> (from <date when="1944-03-25">25 March</date>
+            <leader name="Ferdinand Schorner">Generalfeldmarschall Ferdinand Schorner's</leader>)
+                <army group="A">Heeresgruppe 'A'</army>.</p>
+        <p>Konev now switched his <army group="Ukrainian Front" n="2">2nd Ukrainian Front's</army>
+            focus to this army group, which <leader name="Nikolai F. Vatutin">General Nikolai F.
+                Vatutin's</leader>
+            <army group="Ukrainian Front">1st Ukrainian Front</army> was already enveloping from the
+            north. An opportunity arose for the <army group="Ukrainian Front" n="2">2nd Ukrainian
+                Front's</army> to attack to the south-west and thus cut the lines of retreat
+            available to <army group="A">Heeresgruppe 'A'</army> to the west of the Dniestr river
+            and destroy it in co-operation with <leader name="Rodion Ya. Malinovsky">General Rodion
+                Ya. Malinovsky's</leader>
+            <army group="Ukrainian Front" n="3">3rd Ukrainian Front</army>. The <army
+                group="Ukrainian Front" n="2">2nd Ukrainian Front's</army> 40th Army, under <leader
+                name="Filipp F. Zhmachenko">General Leytenant Filipp F. Zhmachenko</leader>, was
+            advancing along the Dniestr river's eastern bank and was now given the task of cutting
+            the <army group="Panzer" n="1">1st Panzerarmee's</army> lines of retreat to the
+            south-west, in the process collaborating with troops of the <army
+                group="Ukrainian Front" n="1">1st Ukrainian Front</army> in the destruction of the
+            German forces encircled by the <army group="Ukrainian Front" n="1">1st Ukrainian
+                Front</army> at <city name="Kamenets-Podolsky">Kamenets-Podolsky</city> in the
+                <operation name="Proskurov-Chernovtsy Offensive">'Proskurov-Chernovtsy Offensive
+                Operation'</operation>. Brushing aside a German counterattack effort at <city
+                name="Khotyn">Khotyn</city>, they pressed home the attack from the bridgehead to the
+            Dniestr river.</p>
+        <p>The <army group="infantry" n="27">27th Army</army> and <army group="infantry" n="52">52nd
+                Army</army>, together with detachments of the <army group="Tank" n="2">2nd Tank
+                Army</army> and <army group="Tank" n="6">6th Guards Tank Army</army>, advanced to
+            the Prut river, and on <date when="1944-03-26">26 March</date> reached the
+            Soviet/Romanian border on an 55-mile (85-km) front to the north of <city name="Ungheni"
+                >Ungheni</city>. On the night of <date when="1944-03-28" to="1944-03-29">28/29
+                March</date> the <army group="Ukrainian Front" n="2">2nd Ukrainian Front's</army>
+            forces completed an assault crossing of the Prut river from the march, thereby taking
+            the war onto Romanian territory.</p>
+        <p>Towards the <date when="1944-04-15">middle of April</date> the front's right wing reached
+            the Carpathian mountains, after taking <city name="Botosani">Botosani</city>, and
+            approached <city name="Iasi">Iasi (Jassy)</city> and <city name="Chisinau">Chisinau
+                (Kishinev)</city> from the north. In the hope of saving the southern wing of their
+            front from complete disintegration, the Germans moved 18 divisions and three brigades,
+            their last strategic reserve in the southern sector, to this part of the front. In the
+            face of increasing resistance and its own increasing exhaustion of men and supplies, in
+            the <date when="1944-04-15">middle of April</date> the <army group="Ukrainian Front"
+                n="2">2nd Ukrainian Front</army> was forced to go on the defensive at <city
+                name="Dubasari">Dubasari</city> to the north of <city name="Iasi">Iasi</city> and
+            some 37 miles (60 km) to the south of <city name="Botosani">Botosani</city>.</p>
+        <p>As a result the <operation name="Uman-Botosani Offensive">'Uman-Botosani Offensive
+                Operation'</operation>, the <army group="infantry" n="8">8th Army</army> was
+            destroyed and the <army group="Panzer" n="1">1st Panzerarmee</army> partially destroyed,
+            while <army group="Sud">Heeresgruppe 'Sud'</army> was split into <army
+                group="Sudukraine">Heeresgruppe 'Sudukraine'</army> under <leader
+                name="Ferdinand Schorner">Schorner</leader>, and <army group="Nordukraine"
+                >Heeresgruppe 'Nordukraine'</army> under <leader name="Walter Model"
+                >Generalfeldmarschall Walter Model</leader>. The offensive had <casualties n="10"
+                unit="divisions">cost 10 Axis divisions</casualties> some <casualties n="50" unit="percent">50% to
+                75% of their troops</casualties> and almost all of their heavy weapons and equipment
+            as the Soviets advanced some 125 to 155 miles (200 to 250 km), in the process taking
+            significant parts of western Ukraine and Moldova before entering the north-eastern
+            regions of Romania.</p>
+        <p>The Soviet advance then became the <operation name="1st Iasi-Chisinau Offensive">'1st
+                Iasi-Chisinau Offensive Operation'</operation> of <date when="1944-04-08"
+                to="1944-06-06">8 April/6 June</date>. This ended with the Battle of <city
+                name="Targu Frumos">Targu Frumos</city>, which stabilised the front until <date
+                when="1944-08-01">August 1944</date>, when the <operation
+                name="2nd Iasi-Chisinau Strategic Offensive">'2nd Iasi-Chisinau Strategic Offensive
+                Operation'</operation> destroyed <army group="Sudukraine">Heeresgruppe
+                'Sudukraine'</army> and restarted the Soviet drive to the west. It is worth noting
+            that the <operation name="Uman-Botosani Offensive">'Uman-Botosani Offensive
+                Operation'</operation> was the first in which three tank armies were used
+            simultaneously as the main breakthrough force on a narrow sector of the front. The
+            offensive was also undertaken under the conditions of spring floods and rasputitsa. The
+            Soviet armies made six assault crossings straight from the march, the rivers in question
+            being the Gorniy Tikach, Yuzhny Bug, Dniestr, Reut, Prut and Siret.</p>
+        <p>So far as casualties were concerned, the Soviets admitted the loss of <casualties
+                n="70000">70,000 men killed</casualties> and <casualties n="200000">200,000
+                wounded</casualties>, and the Axis losses, excluding the Romanians, were in the
+            order of <casualties n="45000">45,000 men killed</casualties> and <casualties n="25000"
+                >25,000 taken prisoner</casualties>, though the Soviets claimed the figures were
+                <casualties n="118400">118,400 killed</casualties> and <casualties n="27393">27,393
+                taken prisoner</casualties>.</p>
+        <p>The forces involved were <leader name="Sergei G. Trofimenko">General Leytenant Sergei G.
+                Trofimenko's</leader>
+            <army group="infantry" n="27">27th Army</army>, <leader name="Konstantin A. Koroteyev"
+                >General Leytenant Konstantin A. Koroteyev's</leader>
+            <army group="infantry" n="2">52nd Army</army>, <leader name="Ilya K. Smirnov">General
+                Leytenant Ilya K. Smirnov's</leader>
+            <army group="infantry" n="4">4th Guards Army</army>, <leader name="Semyon I. Bogdanov's"
+                >General Leytenant Semyon I. Bogdanov's</leader>
+            <army group="Tank" n="2">2nd Tank Army</army>, <leader name="Pavel A. Rotmistrov"
+                >General Leytenant Pavel A. Rotmistrov's</leader>
+            <army group="Tank" n="5">5th Guards Tank Army</army> and <leader
+                name="Andrei G.
+            Kravchenko">General Leytenant Andrei G.
+                Kravchenko's</leader>
+            <army group="Tank" n="6">6th Guards Tank Army</army> (<manpower who="Soviet Union"
+                n="415">415 tanks</manpower> and <manpower who="Soviet Union" n="147">147
+                self-propelled guns</manpower>), supported by <leader name="Sergei K. Goryunov"
+                >General Leytenant Sergei K. Goryunov's</leader>
+            <army group="Air" n="5">5th Air Army</army>. <leader name="Nikolai I. Krylov">General
+                Leytenant Nikolai I. Krylov's</leader>
+            <army group="infantry" n="7">7th Army</army> and <leader name="Mikhail S. Shumilov"
+                >General Leytenant Mikhail S. Shumilov's</leader>
+            <army group="infantry" n="5">5th Guards Army</army> delivered supporting attacks from
+            the region of <city name="Kirovograd">Kirovograd</city> in the direction of <city
+                name="Novoukrainka">Novoukrainka</city>.</p>
+    </body>
+</xml>

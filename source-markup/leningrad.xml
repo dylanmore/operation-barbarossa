@@ -1,0 +1,92 @@
+<?xml-model href="../../../sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <bibl>
+        <author>History.com Editors</author>
+        <title level="a">Siege of Leningrad begins</title>
+        <title>History Channel</title>
+        <date when="2019-07-28">July 28 2019</date>
+        <ref target="URL"
+            >https://www.history.com/this-day-in-history/siege-of-leningrad-begins</ref>
+    </bibl>
+
+    <desc>
+        <p>During World War II, German forces begin their siege of <city name="Leningrad"
+                >Leningrad</city>, a major industrial center and the USSR’s second-largest city. The
+            German armies were later joined by Finnish forces that advanced against <city
+                name="Leningrad">Leningrad</city> down the Karelian Isthmus. The siege of <city
+                name="Leningrad">Leningrad</city>, also known as the 900-Day Siege though it lasted
+            a grueling 872 days, resulted in the <casualties n="1000000">deaths of some one million
+                of the city’s civilians and Red Army defenders</casualties>.</p>
+    </desc>
+
+    <body>
+        <p><city name="Leningrad">Leningrad</city>, formerly St. Petersburg, capital of the Russian
+            Empire, was one of the initial targets of the German invasion of <date when="1941-06-22"
+                >June 1941</date>. As German armies raced across the western Soviet Union,
+            three-quarters of <city name="Leningrad">Leningrad’s</city> industrial plants and
+            hundreds of thousands of its inhabitants were evacuated to the east. More than two
+            million residents remained, however, and the evacuated were replaced by refugees who
+            fled to <city name="Leningrad">Leningrad</city> ahead of the German advance. All
+            able-bodied persons in the city–men, women, and children–were enlisted to build antitank
+            fortifications along <city name="Leningrad">Leningrad’s</city> edge. By the <date
+                when="1941-07-31">end of July</date>, German forces had cut the <city name="Moscow"
+                >Moscow</city>-<city name="Leningrad">Leningrad</city> railway and were penetrating
+            the outer belt of the fortifications around <city name="Leningrad">Leningrad</city>. On
+                <date when="1941-09-08">September 8</date>, German forces besieged the city, but
+            they were held at bay by <city name="Leningrad">Leningrad’s</city> fortifications and
+            its <manpower who="Soviet Union" n="200000">200,000 Red Army defenders</manpower>. That
+            day, a German air bombardment set fire to warehouses containing a large part of <city
+                name="Leningrad">Leningrad’s</city> scant food supply.</p>
+
+        <p>Aiming to tighten the noose around <city name="Leningrad">Leningrad</city>, the Germans
+            launched an offensive to the east in <date when="1941-10-01">October</date> and cut off
+            the last highways and rail lines south of the city. Meanwhile, Finnish forces advanced
+            down the Karelian Isthmus (which had been seized from Finland by the Soviets during the
+            Russo-Finnish War of 1939 to 1940) and besieged <city name="Leningrad">Leningrad</city>
+            from the north. By <date when="1941-11-01">early November</date>, the city was almost
+            completely encircled, and only across Lake Ladoga was a supply lifeline possible.</p>
+
+        <p>German artillery and air bombardments came several times a day during the first months of
+            the siege. The daily ration for civilians was reduced to 125 grams of bread, no more
+            than a thick slice. Starvation set in by <date when="1941-12-01">December</date>,
+            followed by the coldest winter in decades, with temperatures falling to -40 degrees
+            Fahrenheit. People worked through the winter in makeshift armament factories without
+            roofs, building the weapons that kept the Germans just short of victory.</p>
+
+        <p>Residents burned books and furniture to stay warm and searched for food to supplement
+            their scarce rations. Animals from the city zoo were consumed early in the siege,
+            followed before long by household pets. Wallpaper paste made from potatoes was scraped
+            off the wall, and leather was boiled to produce an edible jelly. Grass and weeds were
+            cooked, and scientists worked to extract vitamins from pine needles and tobacco dust.
+            Hundreds, perhaps thousands, resorted to cannibalizing the dead, and in a few cases
+            people were murdered for their flesh. The Leningrad police struggled to keep order and
+            formed a special division to combat cannibalism.</p>
+
+        <p>Across frozen Lake Ladoga, trucks made it to Leningrad with supplies, but not enough.
+            Thousands of residents, mostly children and the elderly, were evacuated across the lake,
+            but many more remained in the city and succumbed to starvation, the bitter cold, and the
+            relentless German air attacks. In 1942 alone, <casualties n="600000">the siege claimed
+                some 600,000 lives</casualties>. In the summer, barges and other ships braved German
+            air attack to cross Lake Ladoga to <city name="Stalingrad">Leningrad</city> with
+            supplies.</p>
+
+        <p>In <date when="1943-01-01">January 1943</date>, Red Army soldiers broke through the
+            German line, rupturing the blockade and creating a more efficient supply route along the
+            shores of Lake Ladoga. For the rest of the winter and then during the next, the “road of
+            life” across the frozen Lake Ladoga kept Leningrad alive. Eventually, an oil pipeline
+            and electric cables were laid on the lake bed. In the <date when="1943-06-01">summer of
+                1943</date>, vegetables planted on any open ground in the city supplemented
+            rations.</p>
+
+        <p>In <date when="1944-01-01">early 1944</date>, Soviet forces approached <city
+                name="Leningrad">Leningrad</city>, forcing German forces to retreat southward from
+            the city on <date when="1944-01-27">January 27</date>. The siege was over. A giant
+            Soviet offensive to sweep the USSR clean of its invaders began in May. <casualties
+                n="1000000">The 872-day siege of Leningrad cost an estimated one million Soviet
+                lives, perhaps hundreds of thousands more</casualties>. The Soviet government
+            awarded the Order of Lenin to the people of <city name="Leningrad">Leningrad</city> in
+                <date when="1945-01-01">1945</date>, paying tribute to their endurance during the
+            grueling siege. The city did not regain its prewar population of three million until the
+            1960s.</p>
+    </body>
+</xml>

@@ -1,0 +1,151 @@
+<?xml-model href="sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <bibl>
+        <author>History.com Editors</author>
+        <title level="a">Battle of Stalingrad</title>
+        <title>History Channel</title>
+        <date when="2019-06-06">June 6 2019</date>
+        <ref target="URL"
+            >https://www.history.com/this-day-in-history/siege-of-leningrad-begins</ref>
+    </bibl>
+    <desc><p>The Battle of <city name="Stalingrad">Stalingrad</city> was a brutal military campaign
+        between Russian forces and those of Nazi Germany and the Axis powers during World War II.
+        The battle is infamous as one of the largest, longest and bloodiest engagements in modern
+        warfare: From <date when="1942-08-01" to="1943-02-01">August 1942 through February
+            1943</date>, <manpower who="Both" n="2000000">more than two million troops fought in
+            close quarters</manpower> – and <casualties n="2000000">nearly two million people were
+            killed or injured in the fighting, including tens of thousands of Russian
+            civilians</casualties>. But the Battle of <city name="Stalingrad">Stalingrad</city> (one
+        of Russia’s important industrial cities) ultimately turned the tide of World War II in favor
+        of the Allied forces.</p></desc>
+
+    <body><p>Prelude to the Battle of <city name="Stalingrad">Stalingrad</city></p>
+    <p>In the middle of World War II – having captured territory in much of present-day Ukraine and
+        Belarus in the spring of 1942 – Germany’s Wehrmacht forces decided to mount an offensive on
+        southern Russia in the summer of that year.</p>
+
+    <p>Under the leadership of ruthless head of state <leader name="Joseph Stalin">Joseph
+            Stalin</leader>, Russian forces had already successfully rebuffed a German attack on the
+        western part of the country – one that had the ultimate goal of taking <city name="Moscow"
+            >Moscow</city> – <date when="1941-11-01" to="1942-03-01">during the winter of
+            1941-42</date>. However, <leader name="Joseph Stalin">Stalin’s</leader> Red Army had
+        suffered significant losses in the fighting, both in terms of manpower and weaponry.</p>
+
+    <p><leader name="Joseph Stalin">Stalin</leader> and his generals, including future Soviet Union
+        leader <leader name="Nikita Khrushchev">Nikita Khrushchev</leader>, fully expected another
+        Nazi attack to be aimed at <city name="Moscow">Moscow</city>. However, <leader
+            name="Adolf Hitler">Hitler</leader> and the Wehrmacht had other ideas.</p>
+
+    <p>They set their sights on <city name="Stalingrad">Stalingrad</city>, because the city served
+        as an industrial center in Russia, producing, among other important goods, artillery for the
+        country’s troops. The Volga River, which runs through the city, was also an important
+        shipping route connecting the western part of the country with its distant eastern
+        regions.</p>
+
+    <p>Ultimately, <leader name="Adolf Hitler">Adolf Hitler</leader> wanted the Wehrmacht to occupy
+            <city name="Stalingrad">Stalingrad</city>, seeing its value for propaganda purposes,
+        given that it bore Stalin’s name. For similar reasons, the Russians felt a special need to
+        protect it.</p>
+
+    <p>When <leader name="Adolf Hitler">Hitler</leader> proclaimed that upon taking <city
+            name="Stalingrad">Stalingrad</city> all of the city’s male residents would be killed and
+        its women deported, the stage was set for a bloody, hard-fought battle. <leader
+            name="Joseph Stalin">Stalin</leader> ordered all Russians strong enough to hold a rifle
+        to take up arms in defense of the city.</p>
+
+    <p>The <army group="infantry" n="6">6th Army</army> of the Wehrmacht began their assault on
+            <date when="1942-08-23">August 23, 1942</date>.</p>
+
+    <p>Battle of <city name="Stalingrad">Stalingrad</city> Begins Russian forces were initially able
+        to slow the German Wehrmacht’s advances during a series of brutal skirmishes just north of
+            <city name="Stalingrad">Stalingrad</city>. <leader name="Joseph Stalin"
+            >Stalin’s</leader> forces <casualties n="200000">lost more than 200,000
+        men</casualties>, but they successfully held off German soldiers.</p>
+
+    <p>With a firm understanding of <leader name="Adolf Hitler">Hitler’s</leader> plans, the
+        Russians had already shipped much of the stores of grain and cattle out of <city
+            name="Stalingrad">Stalingrad</city>. However, the city’s 400,000-plus residents were not
+        evacuated, as the Russian leadership believed their presence would inspire troops.</p>
+
+    <p>Within a few days of launching its attack, Germany’s Luftwaffe air force had rendered the
+        Volga River impassable to shipping and had sunk several Russian commercial vessels in the
+        process. <date when="1942-08-23" to="1943-02-02">From late August through the end of the
+            assault</date>, the Luftwaffe conducted dozens of air strikes on the city.</p>
+
+    <p>The number of civilian casualties is unknown. However, it’s believed that <casualties>tens of
+            thousands were killed, and that tens of thousands more were captured and forced into
+            slave labor in camps in Germany</casualties>.</p>
+
+    <p>By <date when="1942-09-01">September</date>, the Luftwaffe essentially had control of the
+        skies over <city name="Stalingrad">Stalingrad</city>, and the Russians were getting
+        desperate. Workers in the city not involved in war-related weapons production were soon
+        asked to take up fighting, often without firearms of their own. Women were enlisted to dig
+        trenches at the front lines.</p>
+
+    <p>And yet, the Russians continued to suffer heavy losses. By the <date when="1942-10-01">fall
+            of 1942</date>, <city name="Stalingrad">Stalingrad</city> was in ruins.</p>
+
+    <p><quote from="Joseph Stalin">‘Not a Step Back!’</quote> Despite heavy casualties and the
+        pounding delivered by the Luftwaffe, Stalin instructed his forces in the city to not
+        retreat, famously decreeing in Order No. 227: <quote from="Joseph Stalin">“Not a step
+            back!”</quote> Those who surrendered would be subject to a trial by military tribunal
+        and face possible execution.</p>
+
+    <p>With <manpower who="Soviet Union" n="20000">fewer than 20,000 troops</manpower> in the city
+        and <manpower who="Soviet Union" n="100">less than 100 tanks</manpower>, Stalin’s generals
+        finally began sending reinforcements into the city and surrounding areas. Fighting raged in
+        the streets of <city name="Stalingrad">Stalingrad</city>, with both sides using snipers
+        poised on the roofs of the city’s buildings.</p>
+
+    <p>Russian generals <leader name="Georgy Zhukov">Georgy Zhukov</leader> and <leader
+            name="Aleksandr Vasilevsky">Aleksandr Vasilevsky</leader> organized Russian troops in
+        the mountains to the north and west of the city. From there, they launched a counterattack,
+        famously known as <operation name="Uranus">Operation Uranus</operation>.</p>
+
+    <p>Although they again sustained significant losses, Russian forces were able to form what in
+        essence was a defensive ring around the city by <date when="1942-11-30">late November
+            1942</date>, trapping the nearly <manpower who="Germany" n="300000">300,000 German and
+            Axis troops</manpower> in the <army group="infantry" n="6">6th Army</army>. This effort
+        became the subject of a propaganda film produced after the war, The Battle of <city
+            name="Stalingrad">Stalingrad</city>.</p>
+
+    <p>With the Russian blockade limiting access to supplies, German forces trapped in <city
+            name="Stalingrad">Stalingrad</city> slowly starved. The Russians would seize upon the
+        resulting weakness during the cold, harsh winter months that followed.</p>
+
+    <p>Russian Winter Sets In As Russia’s brutal winter began, Soviet generals knew the Germans
+        would be at a disadvantage, fighting in conditions to which they weren’t accustomed. They
+        began consolidating their positions around <city name="Stalingrad">Stalingrad</city>,
+        choking off the German forces from vital supplies and essentially surrounding them in an
+        ever-tightening noose.</p>
+
+    <p>Thanks to Russian gains in nearby fighting, including in <city name="Rostov"
+            >Rostov-on-Don</city>, 250 miles from <city name="Stalingrad">Stalingrad</city>, the
+        Axis forces – mostly Germans and Italians – were stretched thin. Through <operation
+            name="Little Saturn">Operation Little Saturn</operation>, the Russians began to break
+        the lines of mostly Italian forces to the west of the city.</p>
+
+    <p>At this point, German generals abandoned all efforts to relieve their beleaguered forces
+        trapped in <city name="Stalingrad">Stalingrad</city>. Still, <leader name="Adolf Hitler"
+            >Hitler</leader> refused to surrender even as his men slowly starved and ran out of
+        ammunition.</p>
+
+    <p>Battle of <city name="Stalingrad">Stalingrad</city> Ends By <date when="1943-02-02">February
+            1943</date>, Russian troops had retaken <city name="Stalingrad">Stalingrad</city> and
+        captured nearly <casualties n="100000">100,000 German soldiers</casualties>, though pockets
+        of resistance continued to fight in the city until <date when="1943-03-01">early
+            March</date>. Most of the captured soldiers died in Russian prison camps, either as a
+        result of disease or starvation.</p>
+
+    <p>The loss at <city name="Stalingrad">Stalingrad</city> was the first failure of the war to be
+        publicly acknowledged by <leader name="Adolf Hitler">Hitler</leader>. It put <leader
+            name="Adolf Hitler">Hitler</leader> and the Axis powers on the defensive, and boosted
+        Russian confidence as it continued to do battle on the Eastern Front in World War II.</p>
+
+    <p>In the end, many historians believe the Battle at <city name="Stalingrad">Stalingrad</city>
+        marked a major turning point in the conflict. It was the beginning of the march toward
+        victory for the Allied forces of Russia, Britain, France and the United States.</p>
+
+    <p>In <date when="2018-02-01">February 2018</date>, Russians gathered in what is now known as Volgograd to celebrate the 75th
+        anniversary of the conclusion of the battle that had ravaged their city.</p></body>
+</xml>

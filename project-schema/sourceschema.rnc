@@ -1,6 +1,6 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = xml
-xml = element xml {bibl,desc,body}
+xml = element xml {bibl,desc?,body}
 bibl = element bibl {author, title+,date,ref}
 author = element author {text}
 title = element title {level?,text}
@@ -11,20 +11,24 @@ to = attribute to {xsd:date}
 ref = element ref {target,text}
 target = attribute target {"URL"}
 desc = element desc {p+}
-p = element p {mixed {(casualties| city| date| leader| army| survivors| manpower| operation)*},text}
-casualties = element casualties {n,text}
+p = element p {mixed {(casualties| city| date| leader| army| survivors| manpower| operation | quote)*},text}
+casualties = element casualties {n?,unit?,text}
 n = attribute n {xsd:integer}
+unit = attribute unit {"percent" | "divisions"}
 city = element city {name,text}
-name = attribute name {"Kiev" | "Moscow" | "Adolf Hitler" | "Lokhvista" | "Semyon Budyonny" | "Mikhail Kirponos" | "Heinz Guderian" | "Typhoon"}
+name = attribute name {"Nikolai I. Krylov" | "Mikhail S. Shumilov" | "Kirovograd" | "Novoukrainka" | "Andrei G. Kravchenko" | "Sergei K. Goryunov" | "Ilya K. Smirnov" | "Semyon I. Bogdanov's" | "Pavel A. Rotmistrov" | "Konstantin A. Koroteyev" | "1st Iasi-Chisinau Offensive" | "Targu Frumos" | "2nd Iasi-Chisinau Strategic Offensive" | "Sergei G. Trofimenko" | "Walter Model" | "Botosani" | "Iasi" | "Chisinau" | "Dubasari" | "Uman-Botosani Offensive" | "Nikolai F. Vatutin" | "Khotyn" | "Ungheni" | "Rodion Ya. Malinovsky" | "Filipp F. Zhmachenko" | "Kamenets-Podolsky" | "Proskurov-Chernovtsy Offensive" | "Ernst-Eberhard Hell" | "Mogilev-Podolsky" | "Ewald von Kleist" | "Ferdinand Schorner" | "Belaya Tserkov" | "Hans-Valentin Hube" | "Vinograd" | "Zvenigorodok" | "Shpola" | "Uman" | "Dnepropetrovsk" | "Ivan S. Konev" | "Dniepr-Carpathian Offensive" | "Korsun-Shevchenkovsky Offensive" | "Otto Wohler" | "Erich von Manstein" | "Joseph Stalin" | "Nikita Khrushchev" | "Aleksandr Vasilevsky" | "Rostov" | "Uranus" | "Little Saturn" | "Stalingrad" | "Walther von Brauchitsch" | "Wilhelm Ritter von Leeb" | "Gerd von Rundstedt" | "Sealion" | "Konstantin Rokossovsky" | "Orsha" | "P A Artemyev" | "Josef Stalin" | "Georgy Zhukov" | "Vyazma" | "Bryansk" | "Leningrad" | "Kiev" | "Moscow" | "Adolf Hitler" | "Lokhvista" | "Semyon Budyonny" | "Mikhail Kirponos" | "Heinz Guderian" | "Typhoon" | "Barbarossa" | "Smolensk" | "Fedor von Bock" | "Erich Hoepner" | "Leningrad" | "Franz Halder"}
 leader = element leader {name,text}
 army = element army {mixed{((group) | (group,n) | (n))},text}
-group = attribute group {"Panzer" | "infantry" | "center" | "south"}
+group = attribute group {"Air" | "Sudukraine" | "Nordukraine" | "A" | "Tank" | "Ukrainian Front" | "Sud" | "Uman" | "Panzer" | "infantry" | "center" | "south"}
 survivors = element survivors {n,text}
-manpower = element manpower {who,n,text}
-who = attribute who {"Soviet Union" | "Germany"}
+manpower = element manpower {who,n,unit?,text}
+who = attribute who {"Both" | "Soviet Union" | "Germany"}
 operation = element operation {name,text}
+quote = element quote {from, mixed {(leader | city)*},text}
+from = attribute from {"Joseph Stalin" | "Franz Halder" | "German Supreme Command" | "Konstantin Rokossovsky" | "Adolf Hitler"}
 body = element body {p+}
 # Kiev xml done and schema created by DM #
-
+# Moscow xml by Matt Nowakowski. Edited relax ng for moscow as well. #
+# Completed Siege of Leningrad, Uman- Stalingrad, and edited Schema - DM #
 
 
