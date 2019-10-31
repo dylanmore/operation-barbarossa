@@ -1,4 +1,7 @@
-<?xml-model href="sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
+<!--<?xml-model href="sourceschema.rnc" type="application/relax-ng-compact-syntax"?>-->
+
+<?xml-model href="../project-schema/sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
+
 <xml>
       <bibl>
             <author>Jurgen Shperdhea</author>
