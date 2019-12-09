@@ -1,7 +1,9 @@
-@font-face{
-    font-family:Oswald;
-    src:url(fonts/Oswald-Regular.ttf)
-    }
+html {
+font-family: "Verdana";
+  color: white;
+    max-width: 100%;
+margin: auto;
+}
 .timeline {
   list-style: none;
 }

@@ -1,15 +1,16 @@
-@font-face{
-    font-family:Oswald;
-    src:url(fonts/Oswald-Regular.ttf)
-    }
+html {
+max-width: 100%;
+margin: 0;
+}
 body {
 line-height: 2;
-max-width: 100vw;
-padding-top:0;
-font-family: Oswald;
-color: white; 
+max-width: 100%;
 margin: auto;
-  background-color: #010101
+padding-top:0;
+font-family: "Verdana";
+color: white; 
+
+
 }
 .container {
   position: relative;
@@ -37,7 +38,7 @@ margin: auto;
 }
 
 .container .btn:hover {
-  background-color: #010101;
+;
 }
 .column {
   float: left;

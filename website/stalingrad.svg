@@ -54,7 +54,7 @@
             <path class="domain" d="M-6,0H0V450H-6"></path>
             
         </g>
-        <rect class="bar" x="10" width="31" y="400.6898793565683" height="53.33" fill="green"></rect>
-        <rect class="bar" x="44" width="31" y="162" height="291.666" fill="red"></rect>
+        <rect class="bar" x="10" width="31" y="92" height="361.66" fill="green"></rect>
+        <rect class="bar" x="44" width="31" y="-17" height="470.416" fill="red"></rect>
     </g>
 </svg>

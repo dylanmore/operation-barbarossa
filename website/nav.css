@@ -1,11 +1,10 @@
-@font-face{
-    font-family:Oswald;
-    src:url(fonts/Oswald-Regular.ttf)
-}
+
 html {
 text-align: center;
-  font-family: "Oswald"; 
-  margin: 1em 20%;
+font-family: "Verdana";
+  color: white;
+max-width: 100%;
+margin: auto;
   background-color: #010101;
 }
 header {
