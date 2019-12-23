@@ -1,11 +1,15 @@
 ## Barbarossa Project Review
 
 Site publication: <http://barbarossa.newtfire.org/>
+
 GitHub: <https://github.com/dylanmore/operation-barbarossa>
+
 Developers:
 * Dylan More: @dylanmore
 * Matt Nowakowski: @mattnowakowski
-Date of Evaluation: 2019-12-16
+
+Date of Evaluation: 2019-12-22
+
 Evaluated by: @ebeshero @ksd32 
 
 
