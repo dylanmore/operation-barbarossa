@@ -1,4 +1,4 @@
-<?xml-model href="file:/E:/Chrome%20Downloads/sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../project-schema/sourceschema.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <bibl>
         <author>Christopher Chant</author>
